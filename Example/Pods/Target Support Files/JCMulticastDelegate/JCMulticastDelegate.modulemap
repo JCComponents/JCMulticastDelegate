@@ -1,0 +1,6 @@
+framework module JCMulticastDelegate {
+  umbrella header "JCMulticastDelegate-umbrella.h"
+
+  export *
+  module * { export * }
+}

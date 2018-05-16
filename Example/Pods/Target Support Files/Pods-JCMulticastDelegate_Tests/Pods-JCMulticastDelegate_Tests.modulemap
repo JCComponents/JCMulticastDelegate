@@ -1,0 +1,6 @@
+framework module Pods_JCMulticastDelegate_Tests {
+  umbrella header "Pods-JCMulticastDelegate_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

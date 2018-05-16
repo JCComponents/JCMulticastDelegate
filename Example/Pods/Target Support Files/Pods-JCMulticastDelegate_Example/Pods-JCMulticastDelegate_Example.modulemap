@@ -1,0 +1,6 @@
+framework module Pods_JCMulticastDelegate_Example {
+  umbrella header "Pods-JCMulticastDelegate_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
