@@ -2,8 +2,8 @@
 //  main.m
 //  JCMulticastDelegate
 //
-//  Created by lswhcmcc on 05/16/2018.
-//  Copyright (c) 2018 lswhcmcc. All rights reserved.
+//  Created by JC on 05/16/2018.
+//  Copyright (c) 2018 lswh. All rights reserved.
 //
 
 @import UIKit;
